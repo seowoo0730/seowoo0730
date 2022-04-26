@@ -1,5 +1,10 @@
-### Hi there 👋
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30em">
 
+### 📈My github stats ![visitors](https://visitor-badge.glitch.me/badge?page_id=seowoo0730.seowoo0730&left_color=green&right_color=yellow)
+<a href="https://github.com/seowoo0730/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=seowoo0730&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="seowoo0730's github stats" /></a>
+<a href="https://github.com/seowoo0730/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seowoo0730&layout=compact&theme=buefy&hide_border=true" /></a>
+---
 <!--
 **seowoo0730/seowoo0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
